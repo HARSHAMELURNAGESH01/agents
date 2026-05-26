@@ -7,7 +7,7 @@ AI career assistant for **Harsha Melur Nagesh** — answers questions about back
 ## Setup
 
 ```bash
-cd career_conversation
+cd projects/career_conversation
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 ```
